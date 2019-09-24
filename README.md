@@ -1,5 +1,14 @@
 # apod-preact
 
+NASA Astronomy Picture of the Day Preact app
+
+Get your own free NASA API key here: https://api.nasa.gov/
+
+## Branches
+
+- `0-starting-point` - Standard Preact CLI default template with eslint removed
+- `1-load-apod` - Load APOD in componentDidMount
+
 ## CLI Commands
 
 ``` bash
@@ -15,7 +24,7 @@ npm run build
 # test the production build locally
 npm run serve
 
-# run tests with jest and preact-render-spy 
+# run tests with jest and preact-render-spy
 npm run test
 ```
 
