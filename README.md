@@ -2,7 +2,11 @@
 
 NASA Astronomy Picture of the Day Preact app
 
-Get your own free NASA API key here: https://api.nasa.gov/
+Get your own free NASA API key here: https://api.nasa.gov/. To use this code for yourself, you will need to add a .env file to the root of the project and insert your NASA API key in it like so:
+
+```
+export const API_KEY = "your API key here"
+```
 
 ## Branches
 
