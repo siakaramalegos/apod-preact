@@ -7,6 +7,7 @@
 }
 .apod img {
   max-width: 700px;
+  width: 100%;
 }
 .apod p {
   line-height: 1.5em;
