@@ -1,0 +1,17 @@
+.apod {
+  max-width: 700px;
+  color: #555;
+}
+.apod h1 {
+  margin-bottom: 16px;
+}
+.apod img {
+  max-width: 700px;
+}
+.apod p {
+  line-height: 1.5em;
+}
+.right {
+  float: right;
+  margin-bottom: 16px;
+}

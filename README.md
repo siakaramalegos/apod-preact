@@ -12,6 +12,8 @@ export const API_KEY = "your API key here"
 
 - `0-starting-point` - Standard Preact CLI default template with eslint removed
 - `1-load-apod` - Load APOD in componentDidMount
+- `2-show-apod` - Create the APOD view
+- `3-input-date` - Show the APOD for a different date
 
 ## CLI Commands
 
